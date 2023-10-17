@@ -2,7 +2,7 @@
 ## Yoga Hartono - 5027211023
 ## Athallah Narda Wiyoga - 5027211041 
 
-### Soal 1 Yudhistira akan digunakan sebagai DNS Master, Werkudara sebagai DNS Slave, Arjuna merupakan Load Balancer yang terdiri dari beberapa Web Server yaitu Prabakusuma, Abimanyu, dan Wisanggeni. Buatlah topologi dengan pembagian sebagai berikut.  
+### Soal 1 Yudhistira akan digunakan sebagai DNS Master, Werkudara sebagai DNS Slave, Arjuna merupakan Load Balancer yang terdiri dari beberapa Web Server yaitu Prabakusuma, Abimanyu, dan Wisanggeni. Buatlah topologi dengan pembagian sebagai berikut  
 ![image](https://github.com/yogahartono/Jarkom-Modul2-IT28-2023/assets/89679766/40b33a71-f6c4-463d-8a21-54eced1ad37e)
 
 
